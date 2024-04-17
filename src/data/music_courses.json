@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Mystical Marvels of Rajasthan",
+        "slug": "Mystical-Marvels-of-Rajasthan",
+        "description": "Your Jaipur Journey Begins Here!",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/Rajasthan.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Tropical Escapes in Goa",
+        "slug": "Tropical-Escapes-Goa",
+        "description": " Your Beach Bliss Blueprint!.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": false,
+        "image": "/courses/Goa.avif" 
+      },
+      {
+        "id": 3,
+        "title": "Spiritual Sojourn in Varanasi",
+        "slug": "Spiritual-Sojourn-Varanasi",
+        "description": ":Your Ganges Gateway!",
+        "price": 119.99,
+        "instructor": "Akash Patel",
+        "isFeatured": true,
+        "image": "/courses/Varanasi.avif" 
+      },
+      {
+        "id": 4,
+        "title": "Himalayan Hideaways in Himachal",
+        "slug": "Himalayan-Hideaways",
+        "description": ": Your Shimla Sanctuary!",
+        "price": 129.99,
+        "instructor": "Meeera Desai",
+        "isFeatured": false,
+        "image": "/courses/Himachal.avif"
+      },
+      {
+        "id": 5,
+        "title": "Cultural Chronicles of Kolkata ",
+        "slug": "Cultural-Chronicles",
+        "description": "Your Bengal Adventure Awaits!.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/Kolkata.png"
+      },
+      {
+        "id": 6,
+        "title": "Backwaters Bliss in Kerala",
+        "slug": "Backwaters-Bliss-Kerala",
+        "description": " Your Alleppey Adventure Awaits!",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/Kerala.avif"
+      },
+      {
+        "id": 7,
+        "title": "Mountain Majesty in Uttarakhand:",
+        "slug": "Majesty-Uttarakhand",
+        "description": " Your Rishikesh Retreat!",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/Uttrakand.avif"
+      },
+      {
+        "id": 8,
+        "title": "Historical Hues of Delhi:",
+        "slug": "Historical-Hues-Delhi",
+        "description": " Your Capital Chronicle!",
+        "price": 169.99,
+        "instructor": "Sanjay Kumar",
+        "isFeatured": true,
+        "image": "/courses/Delhi.png"
+      },
+      {
+        "id": 9,
+        "title": "Tea Trails of Darjeeling!"
+        ,
+        "slug": "Tea-Trails-Darjeeling",
+        "description": " Your Himalayan Haven!.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/Darjeeling.avif"
+      },
+      {
+        "id": 10,
+        "title": "Tropical Trails of Andaman",
+        "slug": "Tropical-Trails-Andaman",
+        "description": "Your Island Odyssey Unfolds!",
+        "price": 189.99,
+        "instructor": "Aarti Singh",
+        "isFeatured": true,
+        "image": "/courses/Andaman.jpg"
+      }
+    ]
+  }
